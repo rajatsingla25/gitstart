@@ -132,7 +132,11 @@ GEM
     turbolinks-source (5.0.0)
     tzinfo (1.2.3)
       thread_safe (~> 0.1)
+<<<<<<< HEAD
     uglifier (3.1.11)
+=======
+    uglifier (3.1.12)
+>>>>>>> d24c62d14863f1534cc848f779108e56ce7a2bdd
       execjs (>= 0.3.0, < 3)
     web-console (2.3.0)
       activemodel (>= 4.0)
@@ -158,4 +162,8 @@ DEPENDENCIES
   web-console (~> 2.0)
 
 BUNDLED WITH
+<<<<<<< HEAD
    1.13.6
+=======
+   1.14.3
+>>>>>>> d24c62d14863f1534cc848f779108e56ce7a2bdd
